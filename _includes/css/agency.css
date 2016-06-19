@@ -266,7 +266,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/ apple-256261_1920.jpg');
+    background-image: url('{{ site.baseurl }}/img/apple-256261_1920.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
